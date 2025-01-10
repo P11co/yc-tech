@@ -1,13 +1,4 @@
-# YC Tech Academy (Web Backend)
+# YC Tech Academy (Web Backend) Lesson Notes
+[Notion Site Link](https://bustling-mailbox-3ab.notion.site/YC-Tech-Academy-51e9402a7820409e8469d427f83c9bcf?pvs=4)
 
-Backend 과정
-- [REST API and Spring Boot기본 활용](./posts/week1.md)
-<!-- - [Spring Bean과 의존성 주입](./posts/week2.md) -->
-<!-- - [Spring Data JPA 활용](./posts/week3) -->
-<!-- - [Spring Security를 활용한 웹 서비스 인증](./posts/week4) -->
-<!-- - [Git, Jenkins와 Docker를 활용한 서비스 배포](./posts/week5) -->
-<!-- - [RESTAPI기능및성능테스트및모니터링](./posts/week6) -->
-<!-- - [마이크로서비스 아키텍처](./posts/week7) -->
-
-팀프로젝트
-<!-- - [Team Project](./project/team-project.md) -->
+Click on the link above to enter the dev blog | 백엔드 개발자 블로그 링크입니다
